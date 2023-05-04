@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651020308795",
+    "project_id": "tester-db284",
+    "storage_bucket": "tester-db284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651020308795:android:346487ed5c09b9829b271e",
+        "android_client_info": {
+          "package_name": "com.mian442.finage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651020308795-0vceaih72j86j53i9eqinptg4vttikcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0W5cc8L3So9FqtDG71u51dUZTIlWkX0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651020308795-0vceaih72j86j53i9eqinptg4vttikcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

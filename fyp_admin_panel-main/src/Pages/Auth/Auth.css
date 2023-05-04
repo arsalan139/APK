@@ -1,0 +1,36 @@
+.login > .login-div {
+  flex-direction: column;
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  width: 20%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+@media screen and (max-width: 1440px) {
+  .login > .login-div {
+    width: 28%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .login > .login-div {
+    width: 38%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .login > .login-div {
+    width: 58%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .login > .login-div {
+    width: 90%;
+  }
+}
