@@ -1,0 +1,13 @@
+{
+  "db": "mongodb+srv://asadbhatti8680:HhpFqjb9cfn7uzJ1@cluster0.s9mdxk4.mongodb.net/finage?ssl=true&authSource=admin&retryWrites=true&w=majority",
+  "jwtAdminKey": "Admin",
+  "jwtUserKey": "User",
+  "email": "miancloverstudio@gmail.com",
+  "password": "11.22.33.Ab@",
+  "ipAddress": "192.168.100.6",
+  "accountSid": "AC3c7c236589d21557ad479873a7f5ebad",
+  "authToken": "e1fd7e186236ccf79e7366a0dc089653",
+  "number": "+12407166366",
+  "Url": "http://192.168.100.6:4000",
+  "sk": "sk_test_51HxYCVAV329WVpLfIz65CNtAotZ0ooKUHUsoJPpM6cX7bGjbFq2tKULuKuRF8o5q4D5DOtJM9zrVUEcdyp9M9gCN00yT9jigUR"
+}

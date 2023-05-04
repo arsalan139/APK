@@ -1,0 +1,58 @@
+.sidebar-container {
+  height: 100vh;
+  width: 18%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.contacts-container {
+  height: 100vh;
+  margin-left: 18%;
+  padding: 20px;
+}
+
+@media screen and (max-width: 1290px) {
+  .sidebar-container {
+    width: 25%;
+  }
+  .contacts-container {
+    margin-left: 25%;
+  }
+}
+
+@media screen and (max-width: 925px) {
+  .sidebar-container {
+    width: 30%;
+  }
+  .contacts-container {
+    margin-left: 30%;
+  }
+}
+@media screen and (max-width: 765px) {
+  .sidebar-container {
+    width: 40%;
+  }
+  .contacts-container {
+    margin-left: 40%;
+  }
+
+  .category {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 595px) {
+  .sidebar-container {
+    width: 100%;
+    height: auto;
+    position: unset;
+  }
+  .contacts-container {
+    margin-left: unset;
+  }
+}

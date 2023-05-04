@@ -1,0 +1,12 @@
+{
+  "db": "mongodb://hamza:U4SCjmFlhbsNWqae@cluster0-shard-00-00.kk95x.mongodb.net:27017,cluster0-shard-00-01.kk95x.mongodb.net:27017,cluster0-shard-00-02.kk95x.mongodb.net:27017/hamza?ssl=true&replicaSet=atlas-lezul6-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtAdminKey": "Admin",
+  "jwtUserKey": "User",
+  "email": "miancloverstudio@gmail.com",
+  "password": "11.22.33.Ab@",
+  "ipAddress": "192.168.0.102",
+  "accountSid": "AC3c7c236589d21557ad479873a7f5ebad",
+  "authToken": "e1fd7e186236ccf79e7366a0dc089653",
+  "number": "+12407166366",
+  "Url": "http://192.168.0.102:4000"
+}
